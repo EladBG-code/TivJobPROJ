@@ -18,7 +18,6 @@ public class MainActivity extends AppCompatActivity {
         WebsiteJ.setWebViewClient(new WebViewClient());
         WebsiteJ.loadUrl("https://bit.ly/2Y0xEuG");
     }
-    //TEST TO SEE IF UPDATED
 
     @Override
     public void onBackPressed(){
