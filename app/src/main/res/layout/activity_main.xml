@@ -19,12 +19,4 @@
         app:layout_constraintTop_toBottomOf="@+id/bottomAppBar2"
         app:layout_constraintVertical_bias="0.0" />
 
-    <com.google.android.material.bottomappbar.BottomAppBar
-        android:id="@+id/bottomAppBar5"
-        style="@style/Widget.MaterialComponents.BottomAppBar.Colored"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_gravity="bottom"
-        android:layout_weight="1" />
-
 </LinearLayout>
